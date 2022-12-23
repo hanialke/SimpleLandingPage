@@ -11,7 +11,7 @@ Very simple page, using HTML, CSS and Vanilla JS. It helped me getting familliar
 
 2. VegetarianismLandingPageWithDarkTheme - Page about vegetarianism 
 
-A little bit more adcanced page. It's main purpose was to learn how to make a dark theme, but I also made a button similar to one in previous site  in order to memorise this knowleadge better. I struggled the most with the toggle option, but thanks to the research I've done, I know I could also do it like this: ```body.classlist.toggle("dark")```. The more you know!
+A little bit more advanced page. It's main purpose was to learn how to make a dark theme, but I also made a button similar to one in previous site  in order to memorise this knowleadge better. I struggled the most with the toggle option, but thanks to the research I've done, I know I could also do it like this: ```body.classlist.toggle("dark")```. The more you know!
 
 ## Used technologies
 
